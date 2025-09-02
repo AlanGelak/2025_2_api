@@ -1,0 +1,13 @@
+{
+    "nome": "alan",
+    "idade": 25,
+    "altura": 1.80,
+    "casado": true,
+    "conjuge": {"nome": "mariana", "idade": 22},
+    "filhos": [
+        {"nome": "joaquim", "idade": 5},
+        {"nome": "carol", "idade": 2}
+    ],
+    "formacoes": ["graduação", "mestrado"],
+    "endereco": null
+}
